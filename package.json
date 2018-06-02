@@ -1,0 +1,28 @@
+{
+  "name": "statsd-metrics",
+  "version": "0.0.1",
+  "description": "Statsd UDP client",
+  "keywords": [
+    "statsd",
+    "udp"
+  ],
+  "homepage": "https://github.com/NodeTopia/statsd-metrics",
+  "bugs": {
+    "url": "https://github.com/NodeTopia/statsd-metrics/issues",
+    "email": "mangoraft@gmail.com"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=8"
+  },
+  "engineStrict": true,
+  "maintainer": [
+    "Tim D <mangoraft@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeTopia/statsd-metrics.git"
+  }
+}
