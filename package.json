@@ -1,6 +1,6 @@
 {
   "name": "statsd-metrics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Statsd UDP client",
   "keywords": [
     "statsd",
